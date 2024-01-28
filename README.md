@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shajila642
 - 👀 I’m interested in researching the code of life
-- 🌱 I’m a postgraduate in Computational Biology and machine learning
+- 🌱 I’m a postgraduate in Computational Biology specialisation in  machine learning
   
 
 <!---
